@@ -1,2 +1,2 @@
 # ITAutomationpy
-A coursera test project
+A coursera test project being updated
